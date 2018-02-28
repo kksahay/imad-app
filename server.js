@@ -22,7 +22,7 @@ var articles={
             </p>`
             
 },
-    'artcil-two':{ title:'Article Two | Kunal Sahay',
+    'article-two':{ title:'Article Two | Kunal Sahay',
   heading:'Article Two',
   date:'Feb 28',
   content:`
