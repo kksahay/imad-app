@@ -14,4 +14,8 @@ button.onclick=function(){
           }
       }  
     };
+    
+    request.open('GET','http://http://kunalsahay4.imad.hasura-app.io/counter',true);
+    request.send(NULL);
+    
 };
